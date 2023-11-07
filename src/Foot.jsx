@@ -6,8 +6,10 @@ const Foot= () =>{
            
            <hr></hr>
            
+<center>
 
            <h2>123@gmail.com</h2>
+</center>
 
            
            <hr></hr>

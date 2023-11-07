@@ -4,7 +4,10 @@ const Navba= () =>{
     return(
         <div>
            <hr></hr>
-           <h1 style={{backgroundColor:"lavender", fontSize:"30px" }}>Your Name</h1>
+           <center>
+
+           <h1 style={{backgroundColor:"lavender", fontSize:"30px" }}>WELCOME</h1>
+           </center>
            <hr></hr>
         </div>
     );
