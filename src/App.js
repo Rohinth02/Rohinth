@@ -1,15 +1,15 @@
 
-import './App.css';
-import Navba from './Navba';
-import Mai from './Mai';
-import Foot from './Foot';
+
+import Button from './components/Day2/Button';
+
 function App() {
   return(
 
-<div>
-  <Navba></Navba>
-  <Mai></Mai>
-  <Foot></Foot>
+<div className="flex space-x-4 my-4">
+  <Button  color="green">Green</Button>
+  <Button color="red">Red</Button>
+  <Button  color="blue">Blue</Button>
+  <Button color="yellow">Yellow</Button>
   </div>
   );
 }
